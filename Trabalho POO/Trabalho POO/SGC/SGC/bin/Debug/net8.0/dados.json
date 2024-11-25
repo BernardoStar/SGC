@@ -1,0 +1,12 @@
+[
+  {
+    "Titulo": "POO",
+    "Participantes": [
+      {
+        "Nome": "Pedro",
+        "Email": "bebe"
+      }
+    ],
+    "CapacidadeMaxima": 3
+  }
+]

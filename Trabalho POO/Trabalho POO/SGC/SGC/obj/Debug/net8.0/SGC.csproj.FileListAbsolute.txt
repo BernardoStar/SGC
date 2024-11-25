@@ -1,0 +1,21 @@
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.AssemblyInfoInputs.cache
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.AssemblyInfo.cs
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\bin\Debug\net8.0\SGC.exe
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\bin\Debug\net8.0\SGC.deps.json
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\bin\Debug\net8.0\SGC.runtimeconfig.json
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\bin\Debug\net8.0\SGC.dll
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\bin\Debug\net8.0\SGC.pdb
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.dll
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\refint\SGC.dll
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.pdb
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.genruntimeconfig.cache
+C:\Users\alessandro.pereira\Desktop\Trabalho POO\SGC\SGC\obj\Debug\net8.0\ref\SGC.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Trabalho POO\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Área de Trabalho\Trabalho POO\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Trabalho POO\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Área de Trabalho\Trabalho POO\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Trabalho POO\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Trabalho POO\Trabalho POO\SGC\SGC\obj\Debug\net8.0\refint\SGC.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Trabalho POO\Trabalho POO\SGC\SGC\obj\Debug\net8.0\SGC.pdb
